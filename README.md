@@ -1,17 +1,13 @@
-# Ilyas Ziganshin
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Ilyas Ziganshin, Python backend and LLM tooling" width="100%">
+</picture>
 
-**Python backend and LLM tooling.**
+I build small Python services with tests, Docker, and a measured number for every claim.
 
-I build small services with tests, Docker, and a measured number for every claim.
-Open to remote Python backend and LLM engineer roles.
-
+**Open to remote Python backend and LLM engineer roles.**
 [Email](mailto:ilyas.ziganshn@gmail.com) · [Telegram](https://t.me/z1ganshin_i) · Tashkent, UTC+5
-
-## What I do
-
-1. **Backend services.** FastAPI, SQLite and Postgres, idempotent writes, CSV import, rules in YAML.
-2. **LLM tooling.** Tool-using agents, planners, and the harnesses that measure them.
-3. **Evidence first.** Every project ships with a script that produces its numbers.
 
 ## Selected work
 
@@ -27,17 +23,22 @@ Planner-level eval harness for tool-using agents. YAML tasks, recorded observati
 
 **12 tasks** · **5 tools** · **oracle 12/12** · **constant baseline 0/12** · JSON reports in CI
 
-A project without a number is not finished.
+*A project without a number is not finished.*
+
+## Stack
+
+![Python](https://img.shields.io/badge/-Python-1F6FEB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-1F6FEB?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F6FEB?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-1F6FEB?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-1F6FEB?style=flat-square&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-1F6FEB?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-1F6FEB?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-1F6FEB?style=flat-square&logo=playwright&logoColor=white)
 
 ## How I write code
 
 Small modules and functions. A class only where something has state to hold, like a browser session. The test comes before the demo.
-
-## Stack
-
-Python · FastAPI · SQLite · Postgres · Docker · pytest · GitHub Actions · Playwright
-
-LLM providers: OpenAI, Anthropic and GLM through OpenAI-compatible APIs.
 
 ## Background
 
