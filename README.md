@@ -9,13 +9,13 @@ I build small Python services with tests, Docker, and a measured number for ever
 
 ## Selected work
 
-### [lead-router](https://github.com/Pinger1456/lead-router)
+### [lead-router](https://github.com/IlyasZiganshn/lead-router)
 
 FastAPI service for lead intake. Idempotent writes, CSV import, routing rules in YAML, SQLite.
 
 **28 tests** · **0 duplicates** across 5 repeated imports · **p95 under 1 ms** on 10k rows
 
-### [agent-evals](https://github.com/Pinger1456/agent-evals)
+### [agent-evals](https://github.com/IlyasZiganshn/agent-evals)
 
 Planner-level eval harness for tool-using agents. YAML tasks, recorded observations, any OpenAI-compatible model.
 
@@ -44,4 +44,4 @@ MSc in Software Engineering, BSc in Finance and Credit. Before LLM work I built 
 
 ## Also on GitHub
 
-[mcp-rag-mini](https://github.com/Pinger1456/mcp-rag-mini) · [ai-browser-agent](https://github.com/Pinger1456/ai-browser-agent) · [crm-lead-digest](https://github.com/Pinger1456/crm-lead-digest) · [telegram-multitool-bot](https://github.com/Pinger1456/telegram-multitool-bot)
+[mcp-rag-mini](https://github.com/IlyasZiganshn/mcp-rag-mini) · [ai-browser-agent](https://github.com/IlyasZiganshn/ai-browser-agent) · [crm-lead-digest](https://github.com/IlyasZiganshn/crm-lead-digest) · [telegram-multitool-bot](https://github.com/IlyasZiganshn/telegram-multitool-bot)
