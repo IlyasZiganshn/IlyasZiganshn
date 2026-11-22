@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="Ilyas Ziganshin, Python backend and LLM tooling" width="100%">
-</picture>
+# Ilyas Ziganshin
+
+**Python backend and LLM tooling.**
 
 I build small Python services with tests, Docker, and a measured number for every claim.
 
